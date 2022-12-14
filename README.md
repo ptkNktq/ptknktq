@@ -4,3 +4,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptknktq&layout=compact&theme=solarized-light" />
 </a>
+
+![Counter](https://profile-counter.glitch.me/ptknktq/count.svg)
